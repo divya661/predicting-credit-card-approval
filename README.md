@@ -1,4 +1,4 @@
-# predicting-credit-card-approval
+# Predicting Credit Card Approval
 
 ## Introduction
 As manually analysing credit card approval requests are error-prone, time-consuming as well as banks gets lots of requests in which many gets rejects due to numerous reasons such a low income levels. This task has been automated by Machine learning model. 
@@ -35,6 +35,9 @@ Or
 
 Download the zip folder & unzip the folder downloaded
 
-Install the requirements by running the command in terminal:
+3. Install the requirements by running the command in terminal:
+```
 pip install -r requirements.txt
-Open the jupyter notebook and run the file 'notebook.ipynb' in directory `predicting-credit-card-approval`
+```
+
+4. Open the jupyter notebook and run the file `notebook.ipynb` in directory `predicting-credit-card-approval`
